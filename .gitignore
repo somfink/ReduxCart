@@ -1,0 +1,11 @@
+node_modules
+preferences.json
+.DS_Store
+yarn-error.log
+coverage
+wwwroot
+npm-debug.log
+junit.xml
+user.json
+/.idea/
+package-lock.json
